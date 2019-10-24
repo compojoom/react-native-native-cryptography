@@ -1,0 +1,9 @@
+{
+  "name": "@compojoom/react-native-native-cryptography",
+  "version": "0.0.1",
+  "description": "Simple iOS CryptoKit and Android Cryptography integration for React Native",
+  "main": "index.js",
+  "repository": "https://github.com/compojoom/react-native-native-cryptography",
+  "author": "Daniel Dimitrov",
+  "license": "MIT"
+}
